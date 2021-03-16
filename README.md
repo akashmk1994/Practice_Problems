@@ -1,2 +1,2 @@
 # Practice_Problems
-Python practice problems
+Python practice problems from a general list of algorithms
